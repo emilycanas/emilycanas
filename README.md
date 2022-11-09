@@ -21,7 +21,7 @@
 <img align="left" alt="img" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
 <img align="left" alt="img" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" />
 
-
+---
 ### Stats
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=emilycanas&show_icons=true&theme=tokyonight)
           
