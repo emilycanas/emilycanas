@@ -1,4 +1,4 @@
-#Emily Canas
+<h1> Emily Canas </h1>
 
 **Digital Craftsman**
 I'm  a full stack software developer, science lover, and lifelong learner.
@@ -20,9 +20,9 @@ I'm  a full stack software developer, science lover, and lifelong learner.
 <img align="left" alt="img" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yarn/yarn-original.svg" />
 <img align="left" alt="img" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
 <img align="left" alt="img" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" />
----
+
 ### Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=emilycanas&show_icons=true&theme=tokyonight
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=emilycanas)](https://github.com/anuraghazra/github-readme-stats)
           
           
  
