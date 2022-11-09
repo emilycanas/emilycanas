@@ -1,6 +1,6 @@
 <h1> Emily Canas </h1>
 
-**Digital Craftsman**
+*`*Digital Craftsman`**
 : I am a full stack software developer, science lover, and lifelong learner.
 
 
