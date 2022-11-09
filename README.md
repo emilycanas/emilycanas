@@ -1,12 +1,12 @@
 <h1> Emily Canas </h1>
 
 **Digital Craftsman**
-I'm  a full stack software developer, science lover, and lifelong learner.
+: I am a full stack software developer, science lover, and lifelong learner.
 
 
 - 🔭 I’m currently working with React.js, SQL, and C#/.NET Core.
-- 🌱 I’m excited to continue expanding my development skills and knowledge
 - 👯 I’m looking to collaborate on open source projects.
+- 🌱 I’m excited to continue expanding my development skills and knowledge
 - 📫 How to reach me: https://www.linkedin.com/in/emily-canas/
 
 ---
