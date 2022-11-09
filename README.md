@@ -7,8 +7,11 @@
 - 🔭 I’m currently working with React.js, SQL, and C#/.NET Core.
 - 👯 I’m looking to collaborate on open source projects.
 - 🌱 I’m excited to continue expanding my development skills and knowledge
-- 📫 How to reach me: https://www.linkedin.com/in/emily-canas/
 
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/emily-canas/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/emily-canas/" height="30" width="40" /></a>
+</p>
 ---
 ### Languages & Tools
 <img align="left" alt="img" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
@@ -21,8 +24,6 @@
 <img align="left" alt="img" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
 <img align="left" alt="img" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" />
 
----
-### Stats
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=emilycanas&show_icons=true&theme=tokyonight)
 
 ---
