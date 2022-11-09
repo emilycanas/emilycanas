@@ -4,7 +4,7 @@
 : I am a full stack software developer, science lover, and lifelong learner.
 
 
-- 🔭 I’m currently working with React.js, SQL, and C#/.NET Core.
+- 🔭 I’m currently working with **React.js, SQL, and C#/.NET Core.**
 - 👯 I’m looking to collaborate on open source projects.
 - 🌱 I’m excited to continue expanding my development skills and knowledge
 
@@ -12,6 +12,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/emily-canas/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/emily-canas/" height="30" width="40" /></a>
 </p>
+
 ---
 ### Languages & Tools
 <img align="left" alt="img" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
